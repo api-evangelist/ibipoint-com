@@ -1,4 +1,4 @@
-# ibipoint-com
+# ibiPoint
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,119 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ibipoint-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://ibipoint.com/
+ibiPoint provides prepaid travel eSIMs covering over 200 destinations worldwide. Customers can instantly purchase data plans with no contracts, no apps, and no account required. The service delivers premium 4G/5G connectivity, allowing travelers to stay online across countries with a simple eSIM activation. ibiPoint focuses on fast, reliable mobile data for global travelers, emphasizing convenience and flexibility.
+
+**Areas:** Company · Travel · eSIM · MobileData · Global
+
+## ibiPoint on APIs.io
+
+Everything profiled for ibiPoint is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ibipoint-com/](https://apis.io/providers/ibipoint-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [eSIM Catalog](https://apis.io/apis/ibipoint-com/esim-catalog/) — Prepaid travel eSIM data plans for 200+ countries.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [ibiPoint Agentic Access](https://apis.io/agentic-access/ibipoint-com/ibipoint-com-agentic-access/)
+
+#### JSON Schema (3)
+
+The data models the API reads and writes.
+
+- [JsonRpcError](https://apis.io/schemas/ibipoint-com/ibipoint-com-json-rpc-error/)
+- [JsonRpcRequest](https://apis.io/schemas/ibipoint-com/ibipoint-com-json-rpc-request/)
+- [JsonRpcSuccess](https://apis.io/schemas/ibipoint-com/ibipoint-com-json-rpc-success/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Ibipoint Com Context](https://apis.io/jsonld/ibipoint-com/ibipoint-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ibiPoint API Rules](https://apis.io/rules/ibipoint-com/ibipoint-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [ibiPoint Domain Security](https://apis.io/security/ibipoint-com/ibipoint-com-domain-security/)
+- [ibiPoint Vulnerability Disclosure](https://apis.io/security/ibipoint-com/ibipoint-com-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ibipoint.com/)
+- [Support](https://support.ibipoint.com)
+- [Blog](https://blog.ibipoint.com/)
+- [Security](https://ibipoint.com/esimshop/en-gb/privacy-policy/)
+- [Terms of service](https://ibipoint.com/esimshop/terms-of-service/)
+- [Privacy policy](https://ibipoint.com/esimshop/privacy-policy/)
+- [GitHub](https://github.com/ibiPoint)
+
+## API Evangelist rating
+
+**Kin Score 38.7** — thin · rubric 0.27.0 · scored 2026-11-12
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 57.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 28.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ibipoint-com/](https://apis.io/providers/ibipoint-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ibiPoint: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ibipoint-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
